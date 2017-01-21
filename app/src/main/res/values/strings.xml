@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidFragmentsExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_right_down_text">Not clicked yet!</string>
+    <string name="fragment_right_down_text_2">Now clicked!</string>
+</resources>
